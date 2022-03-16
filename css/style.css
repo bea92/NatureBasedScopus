@@ -428,6 +428,44 @@ background-position: -51px -122px;
 background-image:url('../images/rainbow.png');
 
 }
+
+
+#mainpanel dt.science{
+    background: #9dff89;
+}
+#mainpanel dt.people{
+    background: #3ec3e8;
+}
+
+#mainpanel dt.nonprofits{
+    background: #ff7a3d;
+}
+
+#mainpanel dt.education{
+    background: #1485ff;
+}
+
+#mainpanel dt.film{
+    background: #ff1414;
+}
+
+#mainpanel dt.news{
+    background: #ffddaa;
+}
+
+#mainpanel dt.entertainment{
+    background: #008c48;
+}
+
+#mainpanel dt.travel{
+    background: #ff00f2;
+}
+
+#mainpanel dt.grey{
+    background:grey;
+}
+
+
 #legend .note {
 margin-bottom: 8px;
 
